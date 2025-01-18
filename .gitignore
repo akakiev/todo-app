@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+venv/
+__pycache__/
+.pytest_cache
+
+# Environment variables
+.venv
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+*.pyc
+.DS_Store
+
+# database
+
+todo_app.db
